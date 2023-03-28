@@ -1,4 +1,4 @@
-# Starter React Project for the Supabase Course
+# Starter React Project from the Supabase Tutorial (https://github.com/iamshaunjp/Supabase-Tutorial-for-Beginners.git) by https://github.com/iamshaunjp
 
 **How to run the starter project:**
 
